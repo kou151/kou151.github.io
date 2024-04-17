@@ -1,8 +1,8 @@
 $(function() {
     $('.mainimg-tate').vegas({
         slides: [
-            { src: 'images/IMG_1169.jpeg' },
-            { src: 'images/IMG_2856.jpeg' },	//1枚目の写真指定
+            { src: 'images/IMG_1169.jpg' },
+            { src: 'images/IMG_2856.jpg' },	//1枚目の写真指定
             { src: 'images/IMG_2955.jpg' },	//2枚目の写真指定
         ],
 		transition: 'blur',			//https://vegas.jaysalvat.com/documentation/transitions/から好みのtransitionを選んで置き換えられます。
